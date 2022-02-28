@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat)](https://github.com)
 [![Git](https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
 <br/>
-Welcome to my GitHub profile! I'm a student in Taiwan, currently leaning many things~
+Welcome to my GitHub profile! I'm a student in Taiwan, currently learning many things~
 
 ## Get in touch
 [![Telegram](https://img.shields.io/badge/-Telegram-007acc?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/KuoHuanHuan)
