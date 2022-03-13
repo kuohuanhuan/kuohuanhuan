@@ -20,12 +20,13 @@ Welcome to my GitHub profile! I'm a student in Taiwan, currently learning many t
 [![Email](https://img.shields.io/badge/-Email-8a92c7?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:huanhuankuo@protonmail.com)
 
 ## GitHub stats
-<div>
-[
-<img src="https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko" align="left" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true" align="right" width="45%"/>
-](https://github.com/kuohuanhuan)
-</div>
+
+<a href="https://github.com/kuohuanhuan">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko" align="left" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true" align="right" width="45%"/>
+  </div>
+</a>
 
 ## License
 Copyright (c) 2022 KuoHuanHuan, licensed under [MIT](https://github.com/kuohuanhuan/kuohuanhuan/blob/master/LICENSE).
