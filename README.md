@@ -28,5 +28,7 @@ Welcome to my GitHub profile! I'm a student in Taiwan, currently learning many t
   </div>
 </a>
 
+---
+
 ## License
 Copyright (c) 2022 KuoHuanHuan, licensed under [MIT](https://github.com/kuohuanhuan/kuohuanhuan/blob/master/LICENSE).
