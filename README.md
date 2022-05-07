@@ -21,14 +21,13 @@ Welcome to my GitHub profile! I'm a student in Taiwan, currently learning many t
 
 ## GitHub stats
 
-<a href="https://github.com/kuohuanhuan">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko" align="left" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true" align="right" width="45%"/>
-  </div>
-</a>
+[
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=kuohuanhuan&theme=merko)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kuohuanhuan&theme=react&border=61dafb&hide_border=true)
+](https://github.com/kuohuanhuan)
 
----
+## STAND WITH UKRAINE!!!
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 ## License
 Copyright (c) 2022 KuoHuanHuan, licensed under [MIT](https://github.com/kuohuanhuan/kuohuanhuan/blob/master/LICENSE).
