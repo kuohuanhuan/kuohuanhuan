@@ -34,4 +34,5 @@ Copyright (c) 2022 KuoHuanHuan, licensed under [MIT](https://github.com/kuohuanh
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- Visitors count-->
+[![visitors](https://hits.dwyl.com/kuohuanhuan/kuohuanhuan.svg?style=flat)](http://hits.dwyl.com/kuohuanhuan/kuohuanhuan)
