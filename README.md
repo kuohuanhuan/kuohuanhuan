@@ -31,3 +31,7 @@ Welcome to my GitHub profile! I'm a student in Taiwan, currently learning many t
 
 ## License
 Copyright (c) 2022 KuoHuanHuan, licensed under [MIT](https://github.com/kuohuanhuan/kuohuanhuan/blob/master/LICENSE).
+
+---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
