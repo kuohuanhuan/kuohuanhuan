@@ -2,7 +2,7 @@
 **kuohuanhuan/kuohuanhuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- Title-->
-# KuoHuanHuan's GitHub profile! <img src="https://c.tenor.com/sAWDvQPwGPcAAAAC/mochi-cat.gif" width="45" type="image/gif"/>
+# Hi 👋, KuoHuanHuan here! <img src="https://c.tenor.com/sAWDvQPwGPcAAAAC/mochi-cat.gif" width="40" type="image/gif"/>
 <!-- Badges-->
 [![HTML5](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white&style=flat)](https://www.w3.org)
 [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=white&style=flat)](https://www.w3.org)
