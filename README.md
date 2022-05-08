@@ -8,6 +8,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=white&style=flat)](https://www.w3.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?logo=javascript&logoColor=white&style=flat)](https://javascript.com)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vuedotjs&logoColor=white&style=flat)](https://vuejs.org)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769ad?logo=jquery&logoColor=white&style=flat)](https://jquery.com)
 [![PHP](https://img.shields.io/badge/-PHP-59537b?logo=php&logoColor=white&style=flat)](https://www.php.net)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat)](https://github.com)
