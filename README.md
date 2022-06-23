@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a student in Taiwan, currently learning a lot 
 
 ## Get in touch
 [![Telegram](https://img.shields.io/badge/-Telegram-007acc?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/KuoHuanHuan)
-[![Email](https://img.shields.io/badge/-Email-8a92c7?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:huanhuankuo@protonmail.com)
+[![Email](https://img.shields.io/badge/-Email-8a92c7?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:hi@nekohuan.cyou)
 
 ## GitHub stats
 
